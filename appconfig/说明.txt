@@ -1,0 +1,9 @@
+配置中心文件命名规范：
+项目名-环境.yml
+
+启动服务在浏览器可以直接访问:
+/{application}/{profile}[/{label}]
+/{application}-{profile}.yml
+/{label}/{application}-{profile}.yml
+/{application}-{profile}.properties
+/{label}/{application}-{profile}.properties
